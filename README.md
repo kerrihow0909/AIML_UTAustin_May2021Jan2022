@@ -8,3 +8,6 @@ Topics covered include:
 - Project 4: Ensemble techniques
 - Project 5: Model tuning
 - Project 6: Unsupervised learning, k-means clustering, PCA
+- Project 7: Neural Networks (due 11/20/21)
+- Project 8: Computer Vision (due 12/18/21)
+- Project 9: Natural Language Processing (due 01/22/22)
